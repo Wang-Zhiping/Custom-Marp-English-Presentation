@@ -2,8 +2,10 @@
 
 This repository provides a custom Marp template optimized for English presentations. It includes enhanced support for HTML-defined images to adjust their size easily, making it a versatile and user-friendly solution for creating professional slides. The example is inspired by UniBas Biozentrum.
 
-## Acknowledgment
-This template is inspired by the Awesome Marp repository. Special thanks to its contributors for the foundational ideas.
+
+## Acknowledgment and Based On
+This template is inspired by the [Awesome Marp](https://github.com/favourhong/Awesome-Marp) repository. Special thanks to its contributors for the foundational ideas, which served as a great starting point for this project.
+
 
 ## Repository Structure
 - **`.vscode/`**  
