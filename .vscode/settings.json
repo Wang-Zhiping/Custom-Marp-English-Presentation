@@ -1,0 +1,10 @@
+{
+  "markdown.marp.enableHtml": true,
+  "markdown.marp.themes": [
+    "temple/am_blue.scss",
+    "temple/am_template.scss",
+    "temple/wzpbasel.scss",
+    "temple/am_basel.scss",
+    ""
+  ]
+}
