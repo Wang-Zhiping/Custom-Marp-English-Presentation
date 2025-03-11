@@ -3,7 +3,9 @@
   "markdown.marp.themes": [
     "temple/am_blue.scss",
     "temple/am_template.scss",
+    "temple/am_template_nc.scss",
     "temple/wzpbasel.scss",
+    "temple/wzpbasel2.scss",
     "temple/am_basel.scss",
     ""
   ]

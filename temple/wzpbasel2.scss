@@ -1,0 +1,41 @@
+/* @theme wzpbasel2 */
+
+@import 'am_template_nc';
+
+:root {
+  --color-link: #8d60b0;
+  --color-content-font:  rgba(101, 64, 158, 0.1);
+  --color-content-bar:  rgba(101, 64, 158, 0.2);
+  --color-code-bg: #eff2f3;
+  --color-coverbg: #4b616c;
+  --color-few: #64875e;
+  --color-footer: #747474;
+  --color-main: #211112;
+  --color-much: #384951;
+  --color-navbar-bg: #a475be;
+  --color-navbar-font: rgb(108, 95, 91);
+  --color-quote: rgba(254, 176, 98, 0.1);
+  --color-title: rgb(255, 255, 255);
+  --color-trans: #8ea1ab;
+  --filter-b: brightness(100%) contrast(0%) grayscale(70%);
+  --filter-c: brightness(0%) contrast(60%) grayscale(80%);
+  --filter-e: brightness(100%) contrast(0%) grayscale(70%);
+
+  --color-code-bg: #f4f1f9; /* 修改为更浅的紫色背景，保持温和 */
+  --color-coverbg: #5a2d87; /* 主色调，深紫色 */
+  --color-few: #7c9b6e; /* 调整为与紫色互补的黄绿色 */
+  --color-footer: #8a8a8a; /* 调整为更浅的灰色，提升可读性 */
+  --color-main: #000000; /* 更深的紫棕色，与主色调一致 */
+  --color-much: #6d3b9e; /* 较深的紫色，用作次要背景 */
+  --color-navbar-bg: #d6cfe2; /* 柔和的浅紫色，适合作为导航栏背景 */
+  --color-navbar-font: rgb(155, 131, 192); /* 更浅的紫灰色字体，与主色调和谐 */
+  --color-quote: rgba(154, 119, 196, 0.1); /* 调整引用框为淡紫色，突出重点 */
+  --color-title: rgb(255, 255, 255); /* 保持白色，确保在深色背景上的对比 */
+  --color-trans: #5b3680ab; /* 调整为淡紫色的透明背景，用于装饰 */
+  --color-test: #322b8b;
+  --filter-b: brightness(120%) contrast(30%) grayscale(50%); /* 柔和提升亮度和对比 */
+  --filter-c: brightness(80%) contrast(70%) grayscale(40%); /* 控制图片冷暖对比 */
+  --filter-e: brightness(110%) contrast(20%) grayscale(60%); /* 保持图片灰度和亮度一致 */
+
+  --font-size-footer: 16px;
+}
