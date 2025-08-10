@@ -285,7 +285,7 @@ Enhances high frequencies and reduces blur naturally.
 We can observe significant changes in the low frequencies, which result in improved contrast in our reconstruction.
 
 
-## Result On SHREC 2021
+## Result On SHREC
 <br>
 <img src="image-26.png" style="width: 680px; height: auto;">
 
