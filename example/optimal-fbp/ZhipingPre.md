@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 size: 16:9
 theme: wzpbasel2
 paginate: true
@@ -218,7 +218,7 @@ Obtaining true ground truth from real cryo-ET data is challenging. Therefore, we
 
 FBP Reconstruction:
 $$
-\hat{x}(\beta) = \mathcal{R}^{-1}\bigl(\beta * y\bigr) = \mathrm{FBP}(y, \beta)
+\hat{x}(\beta) = \mathcal{R}^{-1}\bigl(y\bigr) = \mathcal{BP}(\beta * y) = \mathrm{FBP}(y, \beta)
 $$
 
 
@@ -278,15 +278,19 @@ Enhances high frequencies and reduces blur naturally.
 
 
 
+## Result On SHREC 2021
+
+<img src="filters_S.png" style="width: 1100px; height: auto;">
+
+We can observe significant changes in the low frequencies, which result in improved contrast in our reconstruction.
+
 
 ## Result On SHREC 2021
 <br>
 <img src="image-26.png" style="width: 680px; height: auto;">
 
-## Result On SHREC 2021
-<img src="filters_S.png" style="width: 1100px; height: auto;">
 
-We can observe significant changes in the low frequencies, which result in improved contrast in our reconstruction.
+
 
 ## Result On Real Sample
 <br>
